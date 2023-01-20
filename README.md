@@ -1,8 +1,6 @@
 # StoryHunter
 
-### Group 37; Hanna Almqvist, My Andersson, Frida Jansson & Hanna Snarberg
-
-#### DH2642
+### Hanna Almqvist, My Andersson, Frida Jansson & Hanna Snarberg
 
 [Click here to reach deployed application!](https://storyhunter-2a3c7.web.app/)
 
